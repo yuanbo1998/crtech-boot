@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jeecg-boot-base-core-2.4.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test/src/main/resources/lib/jeecg-boot-base-core-2.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/test/src/main/resources/lib/jeecg-boot-base-tools-2.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/test/src/main/resources/lib/jeecg-boot-module-demo-2.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/test/src/main/resources/lib/jeecg-system-local-api-2.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/test/src/main/resources/lib/starter-2.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
